@@ -1,0 +1,24 @@
+\contentsline {chapter}{\numberline {1}Starting Point}{3}
+\contentsline {section}{\numberline {1.1}Introduction}{3}
+\contentsline {section}{\numberline {1.2}Mathematical Notation and some Definitions}{3}
+\contentsline {section}{\numberline {1.3}Differential Equations}{4}
+\contentsline {chapter}{\numberline {2}Fundamental Wavelet Theory}{6}
+\contentsline {section}{\numberline {2.1}Scaling Functions and Spaces}{6}
+\contentsline {section}{\numberline {2.2}Wavelets and Detail Spaces}{7}
+\contentsline {section}{\numberline {2.3}Wavelet Decomposition}{8}
+\contentsline {section}{\numberline {2.4}Orthogonality}{8}
+\contentsline {section}{\numberline {2.5}The Forward Wavelet Transform}{9}
+\contentsline {section}{\numberline {2.6}Filter Banks and Subsampling}{10}
+\contentsline {section}{\numberline {2.7}Higher dimensions}{12}
+\contentsline {chapter}{\numberline {3}Operators on an MRA}{13}
+\contentsline {section}{\numberline {3.1}Wavelet Diagonalization}{13}
+\contentsline {section}{\numberline {3.2}Discretization}{14}
+\contentsline {section}{\numberline {3.3}Quadrature}{14}
+\contentsline {section}{\numberline {3.4}Operator Biorthogonal Systems}{15}
+\contentsline {chapter}{\numberline {4}One-Dimensional Signal Processing Applications}{17}
+\contentsline {section}{\numberline {4.1}Stationary Oscillations}{17}
+\contentsline {section}{\numberline {4.2}Audio and Speech}{19}
+\contentsline {chapter}{\numberline {5}Tomography and Image Processing}{20}
+\contentsline {section}{\numberline {5.1}The Radon Transform}{20}
+\contentsline {section}{\numberline {5.2}Wavelet Inversion}{21}
+\contentsline {chapter}{\numberline {A}Line Integral Inversion of the Radon Transform}{23}
